@@ -106,8 +106,8 @@ Follow the prompts to deploy your own instance!
 ## 🎮 How to Use
 - *Write Code: Enter JavaScript in the editor (e.g., let arr = [1, 2, 3];).*
 
-See the Magic: Watch your data render as a 3D hologram on the right.
+- *See the Magic: Watch your data render as a 3D hologram on the right.*
 
-Debug: Use the time-travel controls (coming soon) to step through execution.
+- *Debug: Use the time-travel controls (coming soon) to step through execution.*
 
-Share: Copy the URL to share your snippet with others.
+- *Share: Copy the URL to share your snippet with others.*
