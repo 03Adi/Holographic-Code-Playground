@@ -91,4 +91,8 @@ Get started locally in just a few steps!
    ```bash
    npm install
  
+3. **Run Locally**
+   ```bash
+   npm run dev
+Open http://localhost:3000 in your browser.
 
