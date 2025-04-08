@@ -84,9 +84,26 @@ Get started locally in just a few steps!
    git clone https://github.com/your-username/holographic-code-playground.git
    cd holographic-code-playground
 
-2. **Install Dependencies**
-   npm install
+2. Install Dependencies
 
-3. **Run Locally**
-   npm run dev
+bash
+Copy
+Edit
+npm install
+
+3. Run Locally
+
+bash
+Copy
+Edit
+npm run dev
+Open http://localhost:3000 in your browser.
+
+4. Deploy to Vercel (Optional)
+
+bash
+Copy
+Edit
+vercel
+Follow the prompts to deploy your own instance!
 
