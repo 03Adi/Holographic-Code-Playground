@@ -89,6 +89,6 @@ Get started locally in just a few steps!
 2. **Install Dependencies**
 
 ```bash
-npm install
-
+   npm install
+ 
 
