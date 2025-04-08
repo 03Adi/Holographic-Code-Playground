@@ -84,61 +84,9 @@ Get started locally in just a few steps!
    git clone https://github.com/your-username/holographic-code-playground.git
    cd holographic-code-playground
 
-2. Install Dependencies
-bash
+2. **Install Dependencies**
+   npm install
 
-Collapse
+3. **Run Locally**
+   npm run dev
 
-Wrap
-
-Copy
-npm install
-Run Locally
-bash
-
-Collapse
-
-Wrap
-
-Copy
-npm run dev
-Open http://localhost:3000 in your browser.
-Deploy to Vercel (Optional)
-bash
-
-Collapse
-
-Wrap
-
-Copy
-vercel
-Follow the prompts to deploy your own instance!
-🎮 How to Use
-Write Code: Enter JavaScript in the editor (e.g., let arr = [1, 2, 3];).
-See the Magic: Watch your data render as a 3D hologram on the right.
-Debug: Use the time-travel controls (coming soon) to step through execution.
-Share: Copy the URL to share your snippet with others.
-🌟 Why This Project?
-Unique Concept: Turns abstract code into tangible, interactive visuals.
-Portfolio Highlight: Demonstrates expertise in React, 3D graphics, and innovative UI/UX.
-Learning Tool: Perfect for teaching or understanding data structures spatially.
-🛠️ Future Enhancements
-Add Python support with Skulpt.
-Visualize complex data structures (graphs, linked lists).
-Enhance debugger with variable state tracking.
-Mobile-friendly orbit controls for 3D interaction.
-🤝 Contributing
-Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
-
-Fork it 🍴
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request 🚀
-📬 Contact
-Built by [Your Name]
-
-GitHub: your-username
-Email: your.email@example.com
-Portfolio: your-portfolio-link
-<p align="center"> <strong>Star this repo if you like it! ⭐</strong> </p> ```
