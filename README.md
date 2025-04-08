@@ -96,3 +96,7 @@ Get started locally in just a few steps!
    npm run dev
 Open http://localhost:3000 in your browser.
 
+4. **Deploy to Vercel (Optional)**
+   ```bash
+   vercel
+Follow the prompts to deploy your own instance!
