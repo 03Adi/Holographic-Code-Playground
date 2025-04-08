@@ -103,8 +103,8 @@ Follow the prompts to deploy your own instance!
 
 ---
 
-🎮 How to Use
-Write Code: Enter JavaScript in the editor (e.g., let arr = [1, 2, 3];).
+## 🎮 How to Use
+- *Write Code: Enter JavaScript in the editor (e.g., let arr = [1, 2, 3];).*
 
 See the Magic: Watch your data render as a 3D hologram on the right.
 
