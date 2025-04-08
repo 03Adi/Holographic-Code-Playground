@@ -75,35 +75,20 @@ Try it out now: [Holographic Code Playground](https://holographic-code-playgroun
 Get started locally in just a few steps!
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Steps
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/holographic-code-playground.git
    cd holographic-code-playground
 
-2. Install Dependencies
+2. **Install Dependencies**
 
-bash
-Copy
-Edit
+```bash
 npm install
 
-3. Run Locally
-
-bash
-Copy
-Edit
-npm run dev
-Open http://localhost:3000 in your browser.
-
-4. Deploy to Vercel (Optional)
-
-bash
-Copy
-Edit
-vercel
-Follow the prompts to deploy your own instance!
 
