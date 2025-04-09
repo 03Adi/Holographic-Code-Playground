@@ -161,4 +161,4 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
 ---
 
-<p align="center"><strong>⭐ Star this repo if you like it! ⭐</strong></p> ```
+<p align="center"><strong>⭐ Star this repo if you like it! ⭐</strong></p> 
