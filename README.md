@@ -120,3 +120,15 @@ Follow the prompts to deploy your own instance!
 - Portfolio Highlight: Demonstrates expertise in React, 3D graphics, and innovative UI/UX.
 
 - Learning Tool: Perfect for teaching or understanding data structures spatially.
+
+---
+
+## 🔮 Future Enhancements
+- Add Python support with Skulpt.
+
+- Visualize complex data structures (graphs, linked lists).
+
+- Enhance debugger with variable state tracking.
+
+- Mobile-friendly orbit controls for 3D interaction.
+
