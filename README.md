@@ -153,13 +153,13 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 ---
 
 ## 📬 Contact
-- Built by [Your Name]
+- Built by Aditya Prakash Pandey
  
-- GitHub: your-username
+- GitHub: https://github.com/03Adi
 
-- Email: your.email@example.com
+- Email: adityadeveloper03@gmail.com
 
-- Portfolio: your-portfolio-link
+- Portfolio: portfolio-aditya03.netlify.app
 
 ---
 
