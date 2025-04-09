@@ -136,6 +136,8 @@ Follow the prompts to deploy your own instance!
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
+
+```bash
 # Fork it 🍴
 git checkout -b my-new-feature
 
