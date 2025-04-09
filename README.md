@@ -159,8 +159,7 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
 - Email: adityadeveloper03@gmail.com
 
-- Portfolio: portfolio-aditya03.netlify.app
-
+- Portfolio: https://portfolio-aditya03.netlify.app/
 ---
 
 <p align="center"><strong>⭐ Star this repo if you like it! ⭐</strong></p> 
