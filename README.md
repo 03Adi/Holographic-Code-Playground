@@ -111,3 +111,12 @@ Follow the prompts to deploy your own instance!
 - *Debug: Use the time-travel controls (coming soon) to step through execution.*
 
 - *Share: Copy the URL to share your snippet with others.*
+
+--- 
+
+## 🌟 Why This Project?
+- Unique Concept: Turns abstract code into tangible, interactive visuals.
+
+- Portfolio Highlight: Demonstrates expertise in React, 3D graphics, and innovative UI/UX.
+
+- Learning Tool: Perfect for teaching or understanding data structures spatially.
