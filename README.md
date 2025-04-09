@@ -137,7 +137,6 @@ Follow the prompts to deploy your own instance!
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
 
-   ```bash
    # Fork it 🍴
    git checkout -b my-new-feature
 
@@ -149,4 +148,17 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
    # Submit a pull request 🚀
 
-----
+---
+
+## 📬 Contact
+- Built by [Your Name]
+
+- GitHub: your-username
+
+- Email: your.email@example.com
+
+- Portfolio: your-portfolio-link
+
+---
+
+<p align="center"><strong>⭐ Star this repo if you like it! ⭐</strong></p> ```
