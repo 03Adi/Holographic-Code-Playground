@@ -132,3 +132,7 @@ Follow the prompts to deploy your own instance!
 
 - Mobile-friendly orbit controls for 3D interaction.
 
+---
+
+## 🤝 Contributing
+Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
