@@ -137,15 +137,16 @@ Follow the prompts to deploy your own instance!
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
 
-```bash
-# Fork it 🍴
-git checkout -b my-new-feature
+   ```bash
+   # Fork it 🍴
+   git checkout -b my-new-feature
 
-# Commit your changes
-git commit -m 'Add some feature'
+   # Commit your changes
+   git commit -m 'Add some feature'
 
-# Push to the branch
-git push origin my-new-feature
+   # Push to the branch
+   git push origin my-new-feature
 
-# Submit a pull request 🚀
+   # Submit a pull request 🚀
 
+----
