@@ -153,7 +153,7 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 ---
 
 ## 📬 Contact
-- Built by Aditya Prakash Pandey
+- Built by 👨‍💻Aditya Prakash Pandey
  
 - GitHub: https://github.com/03Adi
 
