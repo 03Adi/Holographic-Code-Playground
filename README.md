@@ -64,7 +64,7 @@ Try it out now: [Holographic Code Playground](https://holographic-code-playgroun
 ## 📸 Screenshots
 
 *(Add screenshots or GIFs here once you’ve built the project!)*  
-- *Editor with array visualization*  
+- *Editor with array visualization* 
 - *3D hologram of a binary tree*  
 - *Time-travel debugger in action*
 
