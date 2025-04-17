@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>A futuristic coding sandbox where your JavaScript comes to life in 3D.</strong>
-  <br />
+  <br /> 
   Write code, visualize data structures as interactive holograms, and debug with time-travel—all in your browser!
 </p>
 
