@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Three.js-00ff00?style=for-the-badge&logo=three.js&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
- 
+
 <h1 align="center">Holographic Code Playground</h1>
 
 <p align="center">
